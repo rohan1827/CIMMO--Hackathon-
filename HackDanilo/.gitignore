@@ -1,0 +1,7 @@
+# Environments
+.env
+.venv
+
+/HackDanilo/env/
+venv/
+/HackDanilo/.env
