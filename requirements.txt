@@ -1,9 +1,9 @@
 streamlit
-import pandas as pd
-import PyPDF2
-import pdfplumber
-import os
-import Image
-import pytesseract
-from datetime import datetime
-import re
+pandas 
+PyPDF2 
+pdfplumber
+os
+Image
+pytesseract
+datetime 
+re
